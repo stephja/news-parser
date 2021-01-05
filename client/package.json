@@ -10,7 +10,7 @@
     "@material-ui/core": "^3.8.3",
     "@material-ui/icons": "^3.0.2",
     "@material-ui/styles": "^3.0.0-alpha.7",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-transform-class-properties": "6.22.0",
     "concurrently": "^4.1.0",
     "eslint": "^5.12.0",
